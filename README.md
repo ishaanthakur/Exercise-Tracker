@@ -1,4 +1,4 @@
-# Exercise App
+# My Exercise App
 
 This Web based app helps multiple users keep track of their fitness activities.
 
